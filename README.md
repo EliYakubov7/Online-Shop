@@ -9,7 +9,7 @@ Live demo (Feel free to visit) 👉 : https://eli-online-shop.herokuapp.com/
 ## Key Features
 
 * Authentication and Authorization
-  - Login and logout
+  - Signup, login and logout
 * Dashboard
   - Edit products, orders, users (Only for Admin)
 * User profile
