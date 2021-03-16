@@ -11,12 +11,12 @@ Live demo (Feel free to visit) 👉 : https://eli-online-shop.herokuapp.com/
 * Authentication and Authorization
   - Login and logout
 * Dashboard
-  - Edit Products, Orders, Users (Only for Admin)
+  - Edit products, orders, users (Only for Admin)
 * User profile
   - Update name, email, photo
   - My orders
   - Change password
-* Search Products by price, categories and ratings
+* Search products by price, categories and ratings
 * Cart
 * Payment
 
