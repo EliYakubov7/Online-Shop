@@ -18,7 +18,7 @@ Live demo (Feel free to visit) 👉 : https://eli-online-shop.herokuapp.com/
   - Change password
 * Search Products by price, categories and ratings
 * Cart
-* Credit card Payment
+* Payment
 
 ### Home
 
