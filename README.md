@@ -1,6 +1,6 @@
 # Online-Shop
 
-MERN Stack Full Ecommerce Site - Using React, Redux, Node.j
+MERN Stack Full Ecommerce Site - Using React, Redux, Node.js
 
 ## Deployed Version
 
