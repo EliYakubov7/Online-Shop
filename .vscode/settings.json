@@ -1,0 +1,7 @@
+{
+    "workbench.editorAssociations": [],
+    "notebook.kernelProviderAssociations": [],
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
