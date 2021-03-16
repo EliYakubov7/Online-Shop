@@ -19,6 +19,11 @@ Live demo (Feel free to visit) 👉 : https://eli-online-shop.herokuapp.com/
 * Search products by price, categories and ratings
 * Cart
 * Payment
+* * Enter the card details (Test Mode):
+  ```
+  - Card No. : 4242 4242 4242 4242
+  - Expiry date: 02 / 22
+  - CVV: 222
 
 ### Home
 
